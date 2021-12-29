@@ -1,0 +1,36 @@
+{
+  "name": "hxkj-cli",
+  "version": "1.0.0",
+  "description": "和信科技前端项目生成脚手架工具",
+  "main": "index.js",
+  "bin": {
+    "hxkj": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": {
+    "name": "chenlin",
+    "email": "284590533@qq.com"
+  },
+  "keywords": [
+    "hxkj-cli",
+    "hxkj",
+    "脚手架"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.2",
+    "fs-extra": "^10.0.0",
+    "inquirer": "^8.2.0",
+    "ora": "^5.4.1"
+  }
+}
