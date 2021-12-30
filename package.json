@@ -1,6 +1,6 @@
 {
   "name": "hxkj-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "和信科技前端项目生成脚手架工具",
   "main": "index.js",
   "bin": {
